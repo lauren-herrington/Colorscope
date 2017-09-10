@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+![Image](C:\Users\Lauren\Documents\college\Engineering Entrepreneurship\Colorscope website\Colorscope logo)
+### Colorscope
+# Bringing color to the world of special education therapy
 
-You can use the [editor on GitHub](https://github.com/lauren-herrington/Colorscope/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  Sensory stimulation is an important aspect of development in persons with disabilities. Therapists need these devices to help individuals and current competitors in the market have driven up the prices of these essential tools. When you purchase a product from Colorscope, we ensure a quality product at a reasonable price.
+  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why You Should Choose Colorscope:
 
-### Markdown
+- Quality Products
+- Safe and Reliable Devices
+- Multiple Sensory Stimulation
+- Low, Competitive Prices
+- 24/7 Help Line
+- Field Installation and Repairs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Musical Kaliedoscope Table
 
-# Header 1
-## Header 2
-### Header 3
+  Our most popular product is the Musical Kaleidoscope Table. This product provides an interactive way to stimulate a person's auditory, tactile, and visual senses. When the cranks and wheels are turned, they activate the kaleidoscope projection above and individual musical instruments. All the while, the outside of the MKT has fun colorful gears rotating to simulate the work the patient is putting into the device.
 
-- Bulleted
-- List
+![Image](C:\Users\Lauren\Documents\college\Engineering Entrepreneurship\Colorscope website\Trike Projected Kaleidoscope)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lauren-herrington/Colorscope/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
