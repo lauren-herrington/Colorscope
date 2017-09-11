@@ -1,7 +1,7 @@
 ![Colorscope Logo](C:\Users\Lauren\Documents\college\Engineering Entrepreneurship\Colorscope website\Colorscope logo.png)
 ### Bringing color to the world of special education therapy
 
-  Sensory stimulation is an important aspect of development in persons with disabilities. Therapists need these devices to help individuals and current competitors in the market have driven up the prices of these essential tools. When you purchase a product from Colorscope, we ensure a quality product at a reasonable price.
+  Sensory stimulation is an important aspect of development in persons with disabilities. Therapists need these devices to help individuals perceive and embrace the world around them. When you purchase a product from Colorscope, we ensure a quality product at a reasonable price.
   
 
 ## Why You Should Choose Colorscope:
